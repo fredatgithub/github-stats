@@ -6,4 +6,4 @@ flask-wtf==0.12
 flask==0.10.1
 pygithub==1.26.0
 unidecode==0.4.19
-webargs==1.2.0
+webargs==5.1.3
